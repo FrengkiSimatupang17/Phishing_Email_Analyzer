@@ -1,0 +1,8 @@
+From: Online Service <notice@service-example.com>
+Return-Path: <bounce@mail-service-example.com>
+Reply-To: support@gmail.com
+Received: from mail-service-example.com (203.0.113.20)
+Authentication-Results: mx.google.com; spf=softfail dkim=pass dmarc=fail
+Subject: Account Notification
+Date: Mon, 10 Jun 2026 08:30:00 +0700
+Message-ID: <abcde@mail-service-example.com>

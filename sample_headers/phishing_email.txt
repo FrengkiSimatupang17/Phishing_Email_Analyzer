@@ -1,0 +1,8 @@
+From: Bank Support <support@bankabc.com>
+Return-Path: <verify@random-mail.ru>
+Reply-To: attacker@gmail.com
+Received: from random-mail.ru (185.44.22.10)
+Authentication-Results: mx.google.com; spf=fail dkim=fail dmarc=fail
+Subject: Urgent Account Verification
+Date: Mon, 10 Jun 2026 09:00:00 +0700
+Message-ID: <fake123@random-mail.ru>

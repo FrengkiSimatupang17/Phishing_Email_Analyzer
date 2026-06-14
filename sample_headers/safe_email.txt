@@ -1,0 +1,8 @@
+From: Campus IT <it@kampus.ac.id>
+Return-Path: <it@kampus.ac.id>
+Reply-To: it@kampus.ac.id
+Received: from mail.kampus.ac.id (103.10.20.30)
+Authentication-Results: mx.google.com; spf=pass dkim=pass dmarc=pass
+Subject: Informasi Akademik
+Date: Mon, 10 Jun 2026 08:00:00 +0700
+Message-ID: <12345@kampus.ac.id>
